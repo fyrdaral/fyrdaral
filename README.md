@@ -1,4 +1,6 @@
-###  <p style="text-align: center;">Hi there 👋</p>
+### Hi there 👋
+I'm a full stack developer based in France. 
+
 
 <!--
 **fyrdaral/fyrdaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
